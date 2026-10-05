@@ -2,6 +2,10 @@
 
 A responsive WordPress website designed and developed for Momentum Network, a church-planting organization focused on supporting and developing local churches and leaders.
 
+## Live Website
+
+[Visit Momentum Network](https://momentumnetwork.eu/)
+
 ## Preview
 
 ### Desktop
@@ -47,9 +51,7 @@ Designed and developed the website, including:
 - Email functionality
 - Mobile optimization
 
-## Live Website
 
-[Visit Momentum Network](https://momentumnetwork.eu/)
 
 ## Project Type
 
